@@ -242,12 +242,6 @@ ADVOCOR is designed to enhance human legal capabilities, not replace them. Users
 - [Twitter](https://twitter.com/advocor_ai)
 - [LinkedIn](https://linkedin.com/company/advocor)
 
-## 🏆 Recognition
-
-- **2025 Legal Innovation Award** - American Bar Association
-- **Best Open Source Project** - Legal Tech Innovation Summit
-- **Access to Justice Technology Award** - World Justice Project
-
 ---
 
 **"Democratizing legal intelligence, one case at a time."**
